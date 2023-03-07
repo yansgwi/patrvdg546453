@@ -10,7 +10,7 @@ uuidtwo=f703fed0-2099-44da-9b8b-a6e749879abe
 uuidthree=b4a4d541-bb32-41c6-a619-f5fd3def82c6
 uuidfour=715eb38e-c4f4-484e-9768-53435430a32e
 uuidfive=1c659181-a89c-4df9-ab81-c1fc39a6995a
-mypath=/file-myfile
+mypath=/ptmwa
 myport=8080
 
 
